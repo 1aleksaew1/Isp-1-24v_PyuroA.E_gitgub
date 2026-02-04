@@ -6,3 +6,10 @@
 * git reset
 * git commit
 * git diff
+
+# Мой говнокод
+	print("hello kazakov")
+	{
+		for i and 1 + 1:
+			breake;
+	}
