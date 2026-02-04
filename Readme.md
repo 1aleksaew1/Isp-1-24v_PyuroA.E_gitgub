@@ -8,9 +8,12 @@
 * git diff
 
 # Мой говнокод
+```python
 	print("hello kazakov")
 	{
 		for i and 1 + 1:
 			breake;
 	}
-	![kazakov](https://github.com/user-attachments/assets/da130a89-0d26-476b-bacc-a42f433d3137)
+```
+
+![kazakov](https://github.com/user-attachments/assets/da130a89-0d26-476b-bacc-a42f433d3137)
